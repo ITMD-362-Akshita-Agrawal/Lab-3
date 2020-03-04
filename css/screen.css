@@ -237,6 +237,12 @@ ol {
   padding: 0.8em;
   border-radius: 0.25em;
 }
+
+input {
+  display: inline-block;
+  font-family: 'Caladea', serif;
+  border-radius: 0.25em;
+}
   
 
 /* ===== MODULAR STYLES ===== */
