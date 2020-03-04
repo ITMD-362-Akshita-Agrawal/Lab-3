@@ -279,7 +279,14 @@ input {
     font-family: 'Lora', serif;
   }
   
- 
+  #age-verification {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 0.6em;
+    width: 1em;
+    height: 2em;
+  }
+} 
 
 /* ===== STATE STYLES ======= */
 
