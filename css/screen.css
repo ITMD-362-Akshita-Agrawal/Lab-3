@@ -215,7 +215,16 @@ h1{
   line-height: 1.618em;
   text-align: center;
   font-family: 'EB Garamond', serif;
-  text-transform: 
+  text-transform: uppercase;
+}
+
+form{
+  background-color: #2a52be;
+  margin-top: 0.5em;
+  padding: 0.5em;
+  border-radius: 0.5em;
+}
+  
 
 /* ===== MODULAR STYLES ===== */
 
