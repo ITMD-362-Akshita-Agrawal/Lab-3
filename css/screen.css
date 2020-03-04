@@ -243,6 +243,14 @@ input {
   font-family: 'Caladea', serif;
   border-radius: 0.25em;
 }
+
+#submit {
+  padding: 0.5em;
+  border-radius: 0.25em;
+  font-size: 1em;
+  background-color: #9aceeb;
+  font-family: 'EB Garamond', serif;
+}
   
 
 /* ===== MODULAR STYLES ===== */
