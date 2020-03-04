@@ -202,6 +202,12 @@ label {
   display: block;
 }
 
+body {
+  background-color: #b2ffff;
+  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Lora', serif;
+  font-family: 'Caladea', serif;
+}
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
