@@ -264,5 +264,22 @@ input {
   }
 }
 
+@media screen and (max-width: 354px) {
+  h1{
+    font-size: 1.618em;
+    line-height: 1.618em;
+    font-style: normal;
+    font-weight: normal;
+  }
+  
+  p,label,input {
+    font-size: 0.618em;
+    line-height: 1.618em;
+    font-style: normal;
+    font-family: 'Lora', serif;
+  }
+  
+ 
+
 /* ===== STATE STYLES ======= */
 
