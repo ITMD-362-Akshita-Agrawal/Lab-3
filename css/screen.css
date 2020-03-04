@@ -204,11 +204,18 @@ label {
 
 body {
   background-color: #b2ffff;
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'EB Garamond', serif;
   font-family: 'Lora', serif;
   font-family: 'Caladea', serif;
 }
 /* ===== LAYOUT STYLES ====== */
+
+h1{
+  font-size: 1.618em;
+  line-height: 1.618em;
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+  text-transform: 
 
 /* ===== MODULAR STYLES ===== */
 
